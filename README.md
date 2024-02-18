@@ -41,3 +41,5 @@ terraform apply /tmp/tfplan
 terraform apply -destroy
 
 ```
+
+Note: There are lot of assumptions made in this code. e.g. region=singapore, vpc=region default vpc, etc. So please use this repo at your own discretion.
